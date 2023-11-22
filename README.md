@@ -40,6 +40,54 @@
 <a href="mailto:paulogustavotuler@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
+<details>
+ <summary>Sobre mim</summary>
+ <br>
+<details>
+ 
+<summary> <strong>Quem sou eu?</strong></summary>
+ <br>
+Sou um programador inexperiente, mas com muita vontade de aprender e me desenvolver. Estudo todos os dias, buscando o melhor de mim e sempre buscando novos conhecimentos.
+
+</details>
+
+<details>
+ 
+<summary><strong> Quanto tempo estudo desenvolvimento?</strong></summary>
+ <br>
+Comecei a estudar desenvolvimento quando entrei na faculdade, há 1 ano e 3 meses.
+</details>
+
+<details>
+ 
+<summary><strong> Qual é minha especialidade?</strong></summary>
+ <br>
+Sou full stack, mas no começo não gostava de front-end. Quando descobri o React/React Native, percebi que é muito legal cuidar dos dois lados do desenvolvimento.
+</details>
+
+<details>
+ 
+<summary><strong> Qual é minha escolha profissional?</strong></summary>
+ <br>
+Minha escolha profissional é Java e React.
+</details>
+
+<details>
+ 
+<summary><strong> Qual é minha visão do mercado como profissional?</strong></summary>
+ <br>
+O mercado de desenvolvimento de software é muito amplo, mas também é competitivo. Percebo que é difícil para quem começa entrar no mercado, mesmo como estagiário. Os requisitos são muitas vezes muito altos, mas sei que o Serratec está ajudando muitas pessoas a superarem essa barreira.
+</details>
+
+<details>
+ 
+<summary><strong> O que estou buscando no mercado de desenvolvimento de software?</strong></summary>
+ <br>
+> Estou buscando um lugar onde eu possa aplicar todas as minhas ideias em relação a software, e obter uma boa vivência e uma estabilidade financeira.
+</details>
+</details>
+
+
 
 
 
